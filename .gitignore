@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+
+# Bytecode
+*.pyc
+*.pkl
+*.tmp
+
+# Virtualenv
+.venv/
+env/
+ENV/
+venv/
+pip-wheel-metadata/
+
+# IDE: PyCharm / VSCode / others
+.idea/
+.vscode/
+*.swp
+
+# Playwright
+playwright-report/
+*.zip
+*.webm
+*.mp4
+trace.zip
+
+# Pytest
+.pytest_cache/
+.cache/
+coverage.xml
+htmlcov/
+
+# Reports / HTML outputs
+reports/
+*.html
+
+# CSV/Generated data
+data/*.csv
+webapp/customers.html
+
+# OS-specific
+.DS_Store
+Thumbs.db
