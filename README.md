@@ -89,7 +89,7 @@ pytest tests/ --html=reports/report.html --self-contained-html
 
 ## 📊 Пример HTML-отчёта
 
-![Пример HTML отчёта](reports/html_report.png)
+![Пример HTML отчёта](html_report.png)
 
 ---
 
